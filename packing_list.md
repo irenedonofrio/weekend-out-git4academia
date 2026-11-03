@@ -4,4 +4,5 @@
 - [ ] hiking boots
 - [ ] water bottle
 - [ ] sleeping pad
-- [ ] extrawarm blanket
+- [ ] torch
+- [ ] bed linen
